@@ -123,6 +123,11 @@ function dividir(){
         return;
     };
 
+    if(numero2 === 0){
+        pResultado.textContent= "Digite um valor que não seja zero. ";
+        return;
+    };
+
     const dividir = numero1/numero2;
 
     pResultado.textContent = "Resultado: " + dividir;
