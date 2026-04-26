@@ -28,7 +28,7 @@ Uma calculadora simples desenvolvida com **HTML, CSS e JavaScript**, criada para
 2. Insere o **segundo número**
 3. Escolhe a operação desejada clicando em um dos botões
 4. O sistema valida os campos antes de calcular
-5. O resultado é exibido na tela (ou uma mensagem de aviso)
+5. O resultado é exibido na tela
 6. O usuário pode clicar em **"Limpar"** para iniciar um novo cálculo
 
 ---
@@ -53,6 +53,6 @@ calculadora_JS/
 
 ---
 
-## 👩‍💻 Desenvolvidopor
+## 👩‍💻 Desenvolvido por
 
 **Yasmim Oliveira**
