@@ -53,6 +53,6 @@ calculadora_JS/
 
 ---
 
-## 👩‍💻 Desenvolvido por
+## 👩🏻‍💻 Desenvolvido por
 
 **Yasmim Oliveira**
